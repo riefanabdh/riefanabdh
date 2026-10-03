@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌑🌒🌓🌔🌕🌖🌗🌘🌚
 
 ![Riefan Abdul Hakim](img/github-header-banner.png)
 
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I ’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently improving my proficiency in advanced **Excel, R, and Phyton**
+- 👯 I’m looking to collaborate on competitions such as **Data Analysis Contests or Paper Writing Competitions**
+
+
+
+
