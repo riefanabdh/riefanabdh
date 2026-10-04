@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <a href = "https://www.instagram.com/riefanabdh?stkn=MWRvMWJqMnI0Zng2bA%3D%3D"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
-<a href = "[https://www.linkedin.com/in/riefan-abdul-hakim-941874376/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href = "https://www.linkedin.com/in/riefan-abdul-hakim-941874376/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
